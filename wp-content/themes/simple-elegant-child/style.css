@@ -1,0 +1,54 @@
+/*
+Theme Name: Simple & Elegant Child
+Description: Child theme for Simple & Elegant Theme
+Author: Eylin Gomez
+Template: simple-elegant
+*/
+/* start write your custom CSS from here */
+#wi-mainnav .menu > ul > li.mega.column-2 > ul {
+    width: 190px;
+}#wi-mainnav .menu > ul > li.mega > ul > li {
+    display: inline-block;
+    padding: 12px 0px;
+}
+.quick-view{
+	display: none;
+}
+#wi-mainnav .menu > ul > li.mega > ul > li > a {
+    color: #000000;
+    font-weight: 300; 
+}
+#wi-mainnav .menu > ul > li.mega > ul > li > a:hover {
+    color: #4FA8B1;
+ 
+}
+#page-wrapper > div > section > header > h1 {
+    color: white;
+}
+#page-wrapper > div > section > header > h1:after {
+    border-color: #97d033;
+}
+.error-404 {
+    color: white;
+}
+.error-404{
+    background: #00aab2;
+}
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea {
+	height: 35px; }
+#wi-mainnav .menu > ul > li.menu-item-has-children > a:after {
+    opacity: inherit !important;
+}
+th.woocommerce-product-attributes-item__label {
+    text-transform: capitalize!important;
+}
+.admin-bar #offcanvas {
+    height: 100%!important;
+    top: 0px!important;
+}
+nav.woocommerce-breadcrumb {
+    text-transform: uppercase!important;
+}
+td.woocommerce-orders-table__cell.woocommerce-orders-table__cell-order-actions a {
+    text-align: center!important;
+}

@@ -1,0 +1,182 @@
+# Translation of Plugins - Advanced File Manager - Development (trunk) in Spanish (Venezuela)
+# This file is distributed under the same license as the Plugins - Advanced File Manager - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-08 08:27:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_VE\n"
+"Project-Id-Version: Plugins - Advanced File Manager - Development (trunk)\n"
+
+#: application/class_fma_admin_menus.php:63
+msgid "Saving Options, Please Wait..."
+msgstr "Guardando las opciones. Por favor, espera..."
+
+#: application/class_fma_admin_menus.php:23
+#: application/class_fma_admin_menus.php:24
+msgid "File Manager"
+msgstr "Gestor de archivos"
+
+#: application/pages/main.php:34
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: application/pages/main.php:33
+msgid "Support"
+msgstr "Soporte"
+
+#: application/pages/main.php:32
+msgid "Documentation"
+msgstr "Documentación"
+
+#: application/pages/main.php:19
+msgid "Not Now"
+msgstr "Ahora no"
+
+#: application/pages/main.php:18
+msgid "I love your plugin!"
+msgstr "¡Me encanta tu plugin!"
+
+#: application/pages/main.php:15
+msgid "<strong>Advanced File Manager</strong>, we always support you and provide better features for you, please spend some seconds to review our plugin."
+msgstr "En <strong>Advanced File Manager</strong>, siempre te apoyamos y te proporcionamos las mejores características para ti, por favor, utiliza unos segundos para valorar nuestro plugin."
+
+#: application/pages/main.php:8
+msgid "Advanced File Manager"
+msgstr "Advanced File Manager"
+
+#: application/pages/buy_shortcode.php:10
+msgid "This is Pro Feature of File Manager Advanced, Please Buy <a href=\"https://advancedfilemanager.com/product/file-manager-advanced-shortcode-wordpress/\" target=\"_blank\">File Manager Advanced Shortcode</a> Addon Plugin to make shortcode work for frontend. <a href=\"https://advancedfilemanager.com/product/file-manager-advanced-shortcode-wordpress/\" target=\"_blank\" class=\"button button-primary\">Buy Now</a>"
+msgstr "Esta es la característica Pro de Advanced File Manager, por favor, compra la extensión del plugin <a href=\"https://advancedfilemanager.com/product/file-manager-advanced-shortcode-wordpress/\" target=\"_blank\">File Manager Advanced Shortcode</a> para hacer que el shortcode funcione en la vista pública. <a href=\"https://advancedfilemanager.com/product/file-manager-advanced-shortcode-wordpress/\" target=\"_blank\" class=\"button button-primary\">Comprar ahora</a>"
+
+#: application/pages/buy_shortcode.php:6
+msgid "You have Installed File Manager Advanced Shortcode Successfully. Start working with shortcode."
+msgstr "Has instalado correctamente File Manager Advanced Shortcode. Empieza a trabajar con el shortcode."
+
+#: application/pages/buy_shortcode.php:6
+msgid "Congratulations,"
+msgstr "Felicidades,"
+
+#: application/pages/buy_shortcode.php:3
+msgid "Shortcode:"
+msgstr "Shortcode:"
+
+#: application/pages/controls.php:85
+msgid "Will Display .htaccess file (if exists) in file manager."
+msgstr "Mostrará el archivo .htaccess (si existe) en el gestor de archivos."
+
+#: application/pages/controls.php:81
+msgid "Display .htaccess?"
+msgstr "¿Mostrar .htaccess?"
+
+#: application/pages/controls.php:76
+msgid "Deleted files will go to trash folder, you can restore later."
+msgstr "Los archivos borrados irán a la carpeta de la papelera, puedes restaurarlos más tarde."
+
+#: application/pages/controls.php:72
+msgid "Enable Trash?"
+msgstr "¿Activar la papelera?"
+
+#: application/pages/controls.php:68 application/pages/controls.php:77
+#: application/pages/controls.php:86
+msgid "Not Enabled"
+msgstr "No activado"
+
+#: application/pages/controls.php:67
+msgid "Hide real path of file on preview."
+msgstr "Oculta la ruta real del archivo en la vista previa."
+
+#: application/pages/controls.php:63
+msgid "Hide File Path on Preview ?"
+msgstr "¿Ocultar ruta del archivo en la vista previa?"
+
+#: application/pages/controls.php:58
+msgid "File Manager Advanced Files URL, you can change according to your choice."
+msgstr "URL de los archivos de Advanced File Manager, puedes cambiarla a tu elección."
+
+#: application/pages/controls.php:55
+msgid "Files URL"
+msgstr "URL de los archivos"
+
+#: application/pages/controls.php:50
+msgid "File Manager Advanced Root Path, you can change according to your choice."
+msgstr "Ruta raíz de Advanced File Manager, puedes cambiarla a tu gusto."
+
+#: application/pages/controls.php:47
+msgid "Public Root Path"
+msgstr "Ruta pública raíz"
+
+#: application/pages/controls.php:43
+msgid "Select file manager advanced language. Default: en (English)"
+msgstr "Selecciona el idioma de Advanced File Manager. Por defecto: en (Inglés)"
+
+#: application/pages/controls.php:36
+msgid "Language"
+msgstr "Idioma"
+
+#: application/pages/controls.php:32
+msgid "Select file manager advanced theme. Default: Light"
+msgstr "Selecciona el tema avanzado del gestor de archivos. Por defecto: Claro"
+
+#: application/pages/controls.php:30
+msgid "Bootstrap"
+msgstr "Bootstrap"
+
+#: application/pages/controls.php:29
+msgid "Windows 10"
+msgstr "Windows 10"
+
+#: application/pages/controls.php:28
+msgid "Grey"
+msgstr "Gris"
+
+#: application/pages/controls.php:27
+msgid "Dark"
+msgstr "Oscuro"
+
+#: application/pages/controls.php:26
+msgid "Light"
+msgstr "Claro"
+
+#: application/pages/controls.php:23
+msgid "Theme"
+msgstr "Tema"
+
+#: application/pages/main.php:27 application/pages/controls.php:13
+msgid "Rate Us"
+msgstr "valóranos"
+
+#: application/pages/main.php:26 application/pages/controls.php:12
+msgid "Thank you for using <a href=\"https://wordpress.org/plugins/file-manager-advanced/\">File Manager Advanced</a>. If happy then "
+msgstr "Gracias por usar <a href=\"https://ve.wordpress.org/plugins/file-manager-advanced/\">File Manager Advanced</a>. Si te gusta, entonces "
+
+#: application/pages/main.php:10 application/pages/controls.php:10
+msgid "Buy Shortcode Addon"
+msgstr "Comprar la extensión del shortcode"
+
+#: application/pages/controls.php:10
+msgid "Settings"
+msgstr "Ajustes"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/modalweb"
+msgstr "https://profiles.wordpress.org/modalweb"
+
+#. Author of the plugin
+msgid "modalweb"
+msgstr "modalweb"
+
+#. Description of the plugin
+msgid "Cpanel for files management in wordpress"
+msgstr "cPanel para la gestión de archivos en WordPress"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/file-manager-advanced"
+msgstr "https://ve.wordpress.org/plugins/file-manager-advanced"
+
+#. Plugin Name of the plugin
+msgid "File Manager Advanced"
+msgstr "File Manager Advanced"

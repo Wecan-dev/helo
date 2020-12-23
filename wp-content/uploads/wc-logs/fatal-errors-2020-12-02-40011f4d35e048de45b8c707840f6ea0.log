@@ -1,0 +1,2 @@
+2020-12-02T20:10:19+00:00 CRITICAL Out of memory (allocated 73400320) (tried to allocate 32768 bytes) en /var/www/html/HeloU/wp-content/plugins/woocommerce/includes/wc-template-functions.php en la línea 3739
+
